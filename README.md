@@ -8,6 +8,7 @@ A Flutter application that provides real-time weather information based on the u
 - **Location Search**: Allows users to search for weather information by city name.
 - **Interactive Charts**: Displays temperature trends using interactive line charts.
 - **Responsive Design**: Optimized for both mobile and tablet devices.
+<img src="demo/Capture.PNG">
 
 ## Getting Started
 
